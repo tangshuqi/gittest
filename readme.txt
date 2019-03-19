@@ -5,4 +5,6 @@ Git tracks changes of files.
 Creating a new branch is quick And simple.
 add merge
 the change for dev merge
+the new change for dev merge
+
 
